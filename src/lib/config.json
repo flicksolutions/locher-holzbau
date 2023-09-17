@@ -14,12 +14,8 @@
 		"sm": {
 			"menu": [
 				{
-					"title": "Holzbau",
-					"href": "holzbau"
-				},
-				{
-					"title": "Planung",
-					"href": "planung"
+					"title": "Galerie",
+					"href": "galerie"
 				},
 				{
 					"title": "Links",

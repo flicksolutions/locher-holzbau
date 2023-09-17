@@ -1,7 +1,6 @@
 <script>
     import Gallery from '$lib/components/Gallery.svelte';
     import Columns from '$lib/components/Columns.svelte';
-    import ImgText from '$lib/components/ImgText.svelte';
     import Mapbox from '$lib/components/Mapbox.svelte';
 </script>
 
@@ -31,6 +30,7 @@ Vorprojekt, Bauanfrage, Baueingabe, Ausführungs-, Abbund- und Detailpläne komm
 Ich versichere Ihnen professionelle, kundenorientierte Arbeit, die dank der schlanken Unternehmensstruktur auch kostenmässig jedem Vergleich standhalten kann.
 
 Fühlen Sie sich angesprochen? Dann freue ich mich auf Ihre Kontaktaufnahme per eMail oder Telefon.
+
 <Columns>
 <div>
 
@@ -59,7 +59,7 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 </div>
 </Columns>
 
-## Holzbaugallerie
+## Galerie
 
 <Columns>
 
@@ -120,7 +120,7 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 ![Neubau](/holzbau/neubau/50.jpg)
 </Gallery>
 
-Hier vielleicht ein kurzer Text zur Gallerie?
+Hier vielleicht ein kurzer Text zur Galerie?
 
 </div>
 <div class="hero">
@@ -160,7 +160,7 @@ Hier vielleicht ein kurzer Text zur Gallerie?
 ![Umbau](/holzbau/umbau/30.jpg)
 </Gallery>
 
-Hier vielleicht ein kurzer Text zur Gallerie?
+Hier vielleicht ein kurzer Text zur Galerie?
 
 </div>
 <div class="hero">
@@ -183,7 +183,7 @@ Hier vielleicht ein kurzer Text zur Gallerie?
 ![Treppenbau](/holzbau/treppen/13.jpg)
 </Gallery>
 
-Hier vielleicht ein kurzer Text zur Gallerie?
+Hier vielleicht ein kurzer Text zur Galerie?
 
 </div>
 <div class="hero">
@@ -205,7 +205,7 @@ Hier vielleicht ein kurzer Text zur Gallerie?
 ![Treppenbau](/holzbau/diverses/12.jpg)
 </Gallery>
 
-Hier vielleicht ein kurzer Text zur Gallerie?
+Hier vielleicht ein kurzer Text zur Galerie?
 
 </div>
 
@@ -216,6 +216,14 @@ Hier vielleicht ein kurzer Text zur Gallerie?
 Hier ein beschreibender text zum Modell?
 
 <iframe title="3D-Modell" src="/holzbau_3d_modell.html" loading="lazy" style="width: 100%; height: 50vh;"></iframe>
+
+## Links
+
+- [Schreinerei Hofer + Cie Zäziwil](http://www.schreinerei-hofer.ch/)
+
+- [Gemeinde Zäziwil Bauwesen](http://www.zaeziwil.ch/web/verwaltung/bauwesen/default.htm)
+
+- [KKIT GmbH Zäziwil](http://www.kkit.ch/)
 
 ## Kontakt
 
