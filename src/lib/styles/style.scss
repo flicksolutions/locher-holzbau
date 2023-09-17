@@ -17,10 +17,10 @@
 }
 
 html {
-	--bg-color: #eee7ec;
-	--title-color: #597e99;
-	--text-color: black;
-	--shadow-color: #8d8787;
+	--bg-color: #0d5785;
+	--title-color: #b80000;
+	--text-color: white;
+	--shadow-color: #dddddd;
 	--color-accent: #413e3e;
 	--global-padding: 0.8rem;
 	--padding-sm: 0.4rem;
@@ -98,7 +98,7 @@ img {
 	}
 
 	& > div:first-child {
-		background-color: var(--bg-color);
+		background-color: var(--color-accent);
 	}
 }
 

@@ -96,7 +96,7 @@
 		height: var(--header-height);
 
 		h1 {
-			font-size: 1.5rem;
+			font-size: 2.5rem;
 			font-weight: 800;
 			justify-self: center;
 			color: var(--title-color);
