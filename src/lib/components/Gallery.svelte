@@ -13,8 +13,8 @@
 			target: carouselContainer
 		});
 		const items = srcs.map((src) => ({
-			thumb: createWsrvSrc(src, { h: 300, w: 534, fit: 'contain' }), // since we theoretically have the image dimensions, we can create better thumbnails...
-			img: createWsrvSrc(src, { h: 1080, w: 1920, fit: 'contain' }),
+			thumb: createWsrvSrc(src, { h: 300, w: 534, fit: 'outside' }), // since we theoretically have the image dimensions, we can create better thumbnails...
+			img: createWsrvSrc(src, { h: 1080, w: 1920, fit: 'outside' }),
 			alt: alts[srcs.indexOf(src)],
 			w: 1920,
 			h: 1080
