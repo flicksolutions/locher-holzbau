@@ -215,7 +215,7 @@ Hier vielleicht ein kurzer Text zur Galerie?
 
 Hier ein beschreibender text zum Modell?
 
-<iframe title="3D-Modell" src="/holzbau_3d_modell.html" loading="lazy" style="width: 100%; height: 50vh;"></iframe>
+<iframe title="3D-Modell" src="/holzbau_3d_modell.html" loading="lazy" style="width: 100%; height: 50vh;" onLoad="self.scrollTo(0,0)"></iframe>
 
 ## Links
 
