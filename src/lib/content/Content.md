@@ -5,127 +5,224 @@
     import Mapbox from '$lib/components/Mapbox.svelte';
 </script>
 
-# MoLano - pferdegestütztes Coaching
-
-<ImgText>
-
-![Latifa blickt über ihre Schulter](/20221007_163501.jpg#size=95vw)
-
-<figcaption>In der Leichtigkeit darf Neues entstehen</figcaption>
-
-</ImgText>
-
-## Was ist pferdegestütztes Coaching?
-
-Pferde sind Meister in der nonverbalen Kommunikation und können uns Menschen dadurch helfen, uns selber besser kennen und verstehen zu lernen. Ihre Fähigkeit, in Sekundenschnelle auf ihre Umgebung reagieren zu können, sichert seit jeher ihr Überleben und das Zusammenleben in der Herde. Gerade durch diese Fähigkeit sind sie hervorragende Beobachter und «lesen» uns wie ein offenes Buch. Sie spiegeln unsere Gefühle, zeigen uns schonungslos auf, wie es gerade um uns steht … ob wir wollen oder nicht. Sie leben im Hier und Jetzt, sind absolut ehrlich, unbestechlich, bewerten uns nicht und sind immer wieder bereit, sich auf uns einzulassen.
-
-Pferde bieten uns eine wundervolle Möglichkeit, etwas über uns selbst zu lernen.
-
-## Und wie geht das nun konkret?
-
-Beim pferdegestützten Coaching liegt der Schwerpunkt wie bei jedem anderen Coaching auf der Hilfe zur Selbsthilfe. Das Pferd als Co-Coach hilft mit seiner unbestechlichen Ehrlichkeit die Schwerpunkte aufzuzeigen. Der Coach unterstützt den Prozess durch geeignete Fragen und Übungen.
-Ziel ist immer, den Coachee auf seinem Weg zur Selbstreflexion und im Finden von für ihn passenden Lösungen zu unterstützen.
-Das pferdegestützte Coaching findet vom Boden aus statt. Das heisst, es wird nicht geritten, sondern alle Übungen werden mit dem Pferd an der Hand absolviert.
-
-## Bei welchen Themen ist ein pferdegestütztes Coaching hilfreich?
-
-- Klarheit schaffen
-- Selbstvertrauen aufbauen
-- Achtsamkeit uns selbst wie auch anderen gegenüber fördern
-- Kommunikation verbessern
-- Entscheidungsfindung in schwierigen Lebensphasen unterstützen
-- Grenzen setzen
-- Unser Unterbewusstsein besser kennenlernen
+# Locher Holzbau und Planung
 
 <Gallery>
-![Rosmarie und Latifa](/20221013_105234.jpg)
-![Coaching-Session](/IMG_5762.jpg)
-![Coaching Gespräch](/PXL_20221231_135513544.MP.jpg)
-![Coaching beim Gehen](/PXL_20221231_135633716.jpg)
-![Coaching Situation](/PXL_20221231_135731446.MP.jpg)
-![Coaching Situation](/PXL_20221231_135927111.jpg)
-![Duana und Pylone](/PXL_20221231_140121518.jpg)
-![Coaching Situation](/PXL_20221231_140624249.jpg)
-![Coaching Situation](/PXL_20221231_140650354.MP.jpg)
-![Coaching Situation](/PXL_20221231_140311265.jpg)
-![Rosmarie und Latifa](/20230410_192502.jpg)
-![Rosmarie und Latifa](/IMG_5773_bearbeitet.jpg)
-![Rosmarie und Latifa](/IMG_5779_bearbeitet.jpg)
+![Aussenansicht Gebäude](/home/1.jpg)
+![Eingangsbereich](/home/2.jpg)
+![Wohnzimmer mit Cheminee](/home/3.jpg)
+![Nahaufnahme Fussleistenheizung](/home/4.jpg)
+![Fassade](/home/5.jpg)
+![Fassade](/home/6.jpg)
+![Fassade mit Glas](/home/7.jpg)
+![Aussenansicht Gebäude](/home/8.jpg)
+![Bad](/home/9.jpg)
+![Aussenansicht Gebäude rot](/home/10.jpg)
+![Aussenansicht Gebäude weiss](/home/11.jpg)
+![Innenbalkon](/home/12.jpg)
 </Gallery>
 
-## Wer wir sind
+## Wilkommen bei Locher Holzbau und Planung
+
+Planen Sie Ihr Wunschhaus und brauchen dazu einen kompetenten Partner? Dann profitieren Sie von meinen Dienstleistungen. Ich realisiere Ihr Bauprojekt von der Planung bis zur schlüsselfertigen Übergabe.
+
+Vorprojekt, Bauanfrage, Baueingabe, Ausführungs-, Abbund- und Detailpläne kommen aus einer Hand und Doppelspurigkeiten werden vermieden. Dank modernster CAD Technik können Sie am Bildschirm miterleben wie Ihr Haus entsteht. Für den Hausbau stehen mir ein gut ausgebildetes Team und eine moderne Produktionsanlage zur Verfügung, was eine schnelle und passgenaue Fertigung zulässt. Selbstverständlich realisiere ich gerne auch einfach einen Teilbereich Ihres Bauvorhabens.
+
+Ich versichere Ihnen professionelle, kundenorientierte Arbeit, die dank der schlanken Unternehmensstruktur auch kostenmässig jedem Vergleich standhalten kann.
+
+Fühlen Sie sich angesprochen? Dann freue ich mich auf Ihre Kontaktaufnahme per eMail oder Telefon.
+
+### Holzbau
+
+gerne arbeite ich persöhlich für Sie
+
+- Neubau
+- Umbau
+- Treppenbau
+- Böden
+- und vieles mehr
+
+### Planung
+
+gerne plane ich mit Ihnen Ihr Traumhaus
+
+- Bauberatung
+- Projekt
+- Baueingabe
+- Kostenplanung
+- Bauleitung
+
+## Holzbaugallerie
 
 <Columns>
 
 <div class="hero">
 
-### Rosmarie Locher
+### Neubau
 
-![Rosmarie Locher](/_20200404_155109.jpg#size=45vw)
+<Gallery>
+![Neubau](/holzbau/neubau/1.jpg)
+![Neubau](/holzbau/neubau/2.jpg)
+![Neubau](/holzbau/neubau/3.jpg)
+![Neubau](/holzbau/neubau/4.jpg)
+![Neubau](/holzbau/neubau/5.jpg)
+![Neubau](/holzbau/neubau/6.jpg)
+![Neubau](/holzbau/neubau/7.jpg)
+![Neubau](/holzbau/neubau/8.jpg)
+![Neubau](/holzbau/neubau/9.jpg)
+![Neubau](/holzbau/neubau/10.jpg)
+![Neubau](/holzbau/neubau/11.jpg)
+![Neubau](/holzbau/neubau/12.jpg)
+![Neubau](/holzbau/neubau/13.jpg)
+![Neubau](/holzbau/neubau/14.jpg)
+![Neubau](/holzbau/neubau/15.jpg)
+![Neubau](/holzbau/neubau/16.jpg)
+![Neubau](/holzbau/neubau/17.jpg)
+![Neubau](/holzbau/neubau/18.jpg)
+![Neubau](/holzbau/neubau/19.jpg)
+![Neubau](/holzbau/neubau/20.jpg)
+![Neubau](/holzbau/neubau/21.jpg)
+![Neubau](/holzbau/neubau/22.jpg)
+![Neubau](/holzbau/neubau/23.jpg)
+![Neubau](/holzbau/neubau/24.jpg)
+![Neubau](/holzbau/neubau/25.jpg)
+![Neubau](/holzbau/neubau/26.jpg)
+![Neubau](/holzbau/neubau/27.jpg)
+![Neubau](/holzbau/neubau/28.jpg)
+![Neubau](/holzbau/neubau/29.jpg)
+![Neubau](/holzbau/neubau/30.jpg)
+![Neubau](/holzbau/neubau/31.jpg)
+![Neubau](/holzbau/neubau/32.jpg)
+![Neubau](/holzbau/neubau/33.jpg)
+![Neubau](/holzbau/neubau/34.jpg)
+![Neubau](/holzbau/neubau/35.jpg)
+![Neubau](/holzbau/neubau/36.jpg)
+![Neubau](/holzbau/neubau/37.jpg)
+![Neubau](/holzbau/neubau/38.jpg)
+![Neubau](/holzbau/neubau/39.jpg)
+![Neubau](/holzbau/neubau/40.jpg)
+![Neubau](/holzbau/neubau/41.jpg)
+![Neubau](/holzbau/neubau/42.jpg)
+![Neubau](/holzbau/neubau/43.jpg)
+![Neubau](/holzbau/neubau/44.jpg)
+![Neubau](/holzbau/neubau/45.jpg)
+![Neubau](/holzbau/neubau/46.jpg)
+![Neubau](/holzbau/neubau/47.jpg)
+![Neubau](/holzbau/neubau/48.jpg)
+![Neubau](/holzbau/neubau/49.jpg)
+![Neubau](/holzbau/neubau/50.jpg)
+</Gallery>
 
-Seit mehr als 30 Jahren arbeite ich mit Menschen zusammen. Zuerst in meinem angestammten Beruf als Pflegefachfrau und jetzt schon seit vielen Jahren in [meiner Praxis](https://www.gesundheits-praxis-locher.ch/) als Med. Masseurin.
-Immer wieder stiess ich auf Grenzen und dachte: da möchte ich mehr tun, diesem Menschen möchte ich gerne noch andere Möglichkeiten zur Selbsthilfe anbieten.
-Und immer hatte ich dabei Pferde im Kopf.
-Mit der Ausbildung zum INTEGRALHORSE® Familiencoach konnte ich diesen Wunsch nun endlich umsetzen.
+Hier vielleicht ein kurzer Text zur Gallerie?
 
 </div>
 <div class="hero">
 
-### Duana
+### Umbau
 
-![Duana](/20201111_111555.jpg#size=45vw)
+<Gallery>
+![Umbau](/holzbau/umbau/1.jpg)
+![Umbau](/holzbau/umbau/2.jpg)
+![Umbau](/holzbau/umbau/3.jpg)
+![Umbau](/holzbau/umbau/4.jpg)
+![Umbau](/holzbau/umbau/5.jpg)
+![Umbau](/holzbau/umbau/6.jpg)
+![Umbau](/holzbau/umbau/7.jpg)
+![Umbau](/holzbau/umbau/8.jpg)
+![Umbau](/holzbau/umbau/9.jpg)
+![Umbau](/holzbau/umbau/10.jpg)
+![Umbau](/holzbau/umbau/11.jpg)
+![Umbau](/holzbau/umbau/12.jpg)
+![Umbau](/holzbau/umbau/13.jpg)
+![Umbau](/holzbau/umbau/14.jpg)
+![Umbau](/holzbau/umbau/15.jpg)
+![Umbau](/holzbau/umbau/16.jpg)
+![Umbau](/holzbau/umbau/17.jpg)
+![Umbau](/holzbau/umbau/18.jpg)
+![Umbau](/holzbau/umbau/19.jpg)
+![Umbau](/holzbau/umbau/20.jpg)
+![Umbau](/holzbau/umbau/21.jpg)
+![Umbau](/holzbau/umbau/22.jpg)
+![Umbau](/holzbau/umbau/23.jpg)
+![Umbau](/holzbau/umbau/24.jpg)
+![Umbau](/holzbau/umbau/25.jpg)
+![Umbau](/holzbau/umbau/26.jpg)
+![Umbau](/holzbau/umbau/27.jpg)
+![Umbau](/holzbau/umbau/28.jpg)
+![Umbau](/holzbau/umbau/29.jpg)
+![Umbau](/holzbau/umbau/30.jpg)
+</Gallery>
 
-Ich bin 12 Jahre alt und lebe schon einige Jahre hier in Bleienbach.
-Ich bin der Big-Boss in unserer kleinen Herde und zeige immer ganz deutlich, wenn mir etwas nicht passt. Sonst bin ich eher zurückhaltend – eine Dame eben – achte auf gutes Benehmen und lasse mich auch gerne mal bitten.
+Hier vielleicht ein kurzer Text zur Gallerie?
 
 </div>
 <div class="hero">
 
-### Latifa
+### Treppenbau
 
-![Latifa](/20221013_103340.jpg#size=45vw)
+<Gallery>
+![Treppenbau](/holzbau/treppen/1.jpg)
+![Treppenbau](/holzbau/treppen/2.jpg)
+![Treppenbau](/holzbau/treppen/3.jpg)
+![Treppenbau](/holzbau/treppen/4.jpg)
+![Treppenbau](/holzbau/treppen/5.jpg)
+![Treppenbau](/holzbau/treppen/6.jpg)
+![Treppenbau](/holzbau/treppen/7.jpg)
+![Treppenbau](/holzbau/treppen/8.jpg)
+![Treppenbau](/holzbau/treppen/9.jpg)
+![Treppenbau](/holzbau/treppen/10.jpg)
+![Treppenbau](/holzbau/treppen/11.jpg)
+![Treppenbau](/holzbau/treppen/12.jpg)
+![Treppenbau](/holzbau/treppen/13.jpg)
+</Gallery>
 
-Ich verbrachte die ersten acht Jahre meines Lebens im wunderschönen Naturpark Thal und bin erst seit kurzem in Bleienbach. Ich muss mich noch etwas eingewöhnen, aber dank meiner ausgeprägten Neugier habe ich schon viel entdeckt.
-Ich liebe es, mit meiner Schnauze alles ganz genau zu untersuchen und nichts ist vor mir sicher.
+Hier vielleicht ein kurzer Text zur Gallerie?
 
 </div>
 <div class="hero">
 
-### Ada
+### Diverses
 
-![Ada](/ada_new.jpg#size=45vw)
-und ich bin der Co-Co-Coach und behalte immer den Überblick.
+<Gallery>
+![Treppenbau](/holzbau/diverses/1.jpg)
+![Treppenbau](/holzbau/diverses/2.jpg)
+![Treppenbau](/holzbau/diverses/3.jpg)
+![Treppenbau](/holzbau/diverses/4.jpg)
+![Treppenbau](/holzbau/diverses/5.jpg)
+![Treppenbau](/holzbau/diverses/6.jpg)
+![Treppenbau](/holzbau/diverses/7.jpg)
+![Treppenbau](/holzbau/diverses/8.jpg)
+![Treppenbau](/holzbau/diverses/9.jpg)
+![Treppenbau](/holzbau/diverses/10.jpg)
+![Treppenbau](/holzbau/diverses/11.jpg)
+![Treppenbau](/holzbau/diverses/12.jpg)
+</Gallery>
+
+Hier vielleicht ein kurzer Text zur Gallerie?
 
 </div>
 
 </Columns>
 
-## Preise
+## Holzbau 3D-Modell
 
-CHF 80.- / 60 Minuten
-Die Dauer eines Coachings variiert zwischen 90 und 120 Minuten.
+Hier ein beschreibender text zum Modell?
 
-<ImgText>
-
-![Pferd und Mensch gehen im Gleichschritt](/IMG_5747.jpg#size=95vw)
-
-<figcaption>
-
-Auch der längste Weg beginnt mit dem ersten Schritt.
-
-</figcaption>
-
-</ImgText>
+<!--<iframe title="3D-Modell" src="/holzbau_3d_modell.html" loading="lazy"></iframe>-->
 
 ## Kontakt
 
 <address>
-Rosmarie Locher<br>
-Dorfstrasse 5<br>
-3368 Bleienbach<br>
+Locher Holzbau und Planung GmbH<br>
+Oberreutenenstrasse 4<br>
+3532 Zäziwil<br>
 
-E-Mail: [rosmarie@molano.ch](mailto:rosmarie@molano.ch)
+Telefon: [031 711 45 80](tel:+41317114580)
+
+Mobil: [079 307 92 63](tel:+410793079263)
+
+E-Mail: [info@locher-holzbau.ch ](mailto:info@locher-holzbau.ch)
 
 </address>
 
-<Mapbox location={[7.756737443355724, 47.18519492606521]} adress="Dorfstrasse 5, 3368 Bleienbach" link="https://goo.gl/maps/2gJ85unQD5FNrMCz7"/>
+<Mapbox location={[7.676055419837151, 46.88639880815345]} adress="Oberreutenenstrasse 4, Zäziwil" link="https://maps.app.goo.gl/Vwu7A2B6TVukJ2uF6"/>
