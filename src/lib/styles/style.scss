@@ -1,0 +1,108 @@
+@use 'sass:map';
+@import 'variables';
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('/fonts/OpenSans_wdth,wght.woff2') format('woff2');
+	font-weight: 300 800;
+	font-stretch: 75% 100%;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Comfortaa';
+	src: url('/fonts/Comfortaa_wght.woff2') format('woff2');
+	font-weight: 300 700;
+	font-style: normal;
+}
+
+html {
+	--bg-color: #eee7ec;
+	--title-color: #597e99;
+	--text-color: black;
+	--shadow-color: #8d8787;
+	--color-accent: #413e3e;
+	--global-padding: 0.8rem;
+	--padding-sm: 0.4rem;
+	--padding-md: 1rem;
+	--padding-lg: 2.5rem;
+	--padding-xl: 4rem;
+	--small-header-height: 2.5rem;
+	--header-height: 8rem;
+	--menu-height: 2rem;
+	--small-header-padding: 0.8rem;
+	scroll-padding-block: calc(var(--header-height) + var(--padding-md) + var(--menu-height) + 2rem);
+	overflow: auto;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+	font-size: 1.1rem;
+}
+
+@media (min-width: map.get($breakpoints, 'md')) {
+	body {
+		--global-padding: 1.5rem;
+	}
+}
+
+@media (min-width: map.get($breakpoints, 'lg')) {
+	body {
+		--global-padding: 2.2rem;
+	}
+}
+
+@media (min-width: map.get($breakpoints, 'xl')) {
+	body {
+		--global-padding: 6rem;
+	}
+}
+
+@media (min-width: map.get($breakpoints, 'xxl')) {
+	body {
+		--global-padding: calc((100vw - 1200px) / 2);
+	}
+}
+
+h1,
+h2,
+h3 {
+	font-family: 'Comfortaa', cursive;
+	a {
+		color: var(--title-color);
+		text-decoration: none;
+	}
+}
+
+h1 {
+	font-size: 2.5rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+h3 {
+	font-size: 1.5rem;
+}
+
+img {
+	max-width: 100%;
+}
+
+.bp-wrap {
+	&.bp-inline {
+		z-index: initial;
+	}
+
+	& > div:first-child {
+		background-color: var(--bg-color);
+	}
+}
+
+.bp-count {
+	font-weight: 700;
+	color: var(--text-color);
+}

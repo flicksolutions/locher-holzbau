@@ -1,0 +1,67 @@
+{
+	"ghuser": "flicksolutions",
+	"ghrepo": "skeleton-static",
+	"ghbranch": "master",
+	"breakpoints": {
+		"sm": 300,
+		"md": 600,
+		"lg": 900,
+		"xl": 1200,
+		"xxl": 1500,
+		"xxxl": 2000
+	},
+	"header": {
+		"sm": {
+			"menu": [
+				{
+					"title": "Coaching",
+					"href": "was-ist-pferdegestütztes-coaching"
+				},
+				{
+					"title": "Zielgruppe",
+					"href": "bei-welchen-themen-ist-ein-pferdegestütztes-coaching-hilfreich"
+				},
+				{
+					"title": "Wer wir sind",
+					"href": "wer-wir-sind"
+				},
+				{
+					"title": "Preise",
+					"href": "preise"
+				},
+				{
+					"title": "Kontakt",
+					"href": "kontakt"
+				}
+			]
+		}
+	},
+	"footer": {
+		"sm": {
+			"logos": [
+				{
+					"src": "/SVPC-Mitgliedsbutton.png",
+					"alt": "Mitglied SVPC",
+					"width": 829,
+					"height": 829
+				},
+				{
+					"src": "/Zertifizierungsbutton_integtralhorse.png",
+					"alt": "Zertifiert Integral Horse",
+					"width": 183,
+					"height": 170
+				}
+			],
+			"content": "<a href=\"#kontakt\">Kontakt</a>"
+		},
+		"md": {
+			"content": "<a href=\"#kontakt\">Kontakt</a>"
+		},
+		"lg": {
+			"content": "Rosmarie Locher | 076 304 16 90 | <a href=\"mailto:rosmarie@molano.ch\">rosmarie@molano.ch</a>"
+		},
+		"xl": {
+			"content": "Rosmarie Locher | 3368 Bleienbach | 076 304 16 90 | <a href=\"mailto:rosmarie@molano.ch\">rosmarie@molano.ch</a>"
+		}
+	}
+}
