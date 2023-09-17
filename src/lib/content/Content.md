@@ -31,6 +31,8 @@ Vorprojekt, Bauanfrage, Baueingabe, Ausführungs-, Abbund- und Detailpläne komm
 Ich versichere Ihnen professionelle, kundenorientierte Arbeit, die dank der schlanken Unternehmensstruktur auch kostenmässig jedem Vergleich standhalten kann.
 
 Fühlen Sie sich angesprochen? Dann freue ich mich auf Ihre Kontaktaufnahme per eMail oder Telefon.
+<Columns>
+<div>
 
 ### Holzbau
 
@@ -42,6 +44,8 @@ gerne arbeite ich persöhlich für Sie
 - Böden
 - und vieles mehr
 
+</div><div>
+
 ### Planung
 
 gerne plane ich mit Ihnen Ihr Traumhaus
@@ -51,6 +55,9 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 - Baueingabe
 - Kostenplanung
 - Bauleitung
+
+</div>
+</Columns>
 
 ## Holzbaugallerie
 
@@ -208,7 +215,7 @@ Hier vielleicht ein kurzer Text zur Gallerie?
 
 Hier ein beschreibender text zum Modell?
 
-<!--<iframe title="3D-Modell" src="/holzbau_3d_modell.html" loading="lazy"></iframe>-->
+<iframe title="3D-Modell" src="/holzbau_3d_modell.html" loading="lazy" style="width: 100%; height: 50vh;"></iframe>
 
 ## Kontakt
 
