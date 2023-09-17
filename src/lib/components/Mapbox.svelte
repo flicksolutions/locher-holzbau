@@ -19,13 +19,6 @@
 			maxZoom: 21,
 			minZoom: 8,
 			scrollZoom: false,
-			dragRotate: false,
-			touchZoomRotate: false,
-			doubleClickZoom: true,
-			pitchWithRotate: false,
-			dragPan: false,
-			preserveDrawingBuffer: true,
-			attributionControl: false
 		});
 		mapobject.addControl(new maplibre.NavigationControl(), 'top-left');
 		const popup = new Popup({ offset: 25 })
