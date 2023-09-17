@@ -52,6 +52,6 @@ export function createWsrvSrc(src, options = {}) {
 
 export function createWsrvSrcSet(src, sizes = [300, 600, 900, 1500, 2100, 3000], options = {}) {
 	return sizes
-		.map((size) => `${createWsrvSrc(src, { w: size, fit: 'outside', ...options })} ${size}w`)
+		.map((size) => `${createWsrvSrc(src, { w: size, fit: 'contain', ...options })} ${size}w`)
 		.join(', ');
 }

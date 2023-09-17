@@ -13,8 +13,8 @@
 			target: carouselContainer
 		});
 		const items = srcs.map((src) => ({
-			thumb: createWsrvSrc(src, { h: 300, w: 534, fit: 'outside' }), // since we theoretically have the image dimensions, we can create better thumbnails...
-			img: createWsrvSrc(src, { h: 1080, w: 1920, fit: 'outside' }),
+			thumb: createWsrvSrc(src, { h: 300, w: 534, fit: 'contain' }), // since we theoretically have the image dimensions, we can create better thumbnails...
+			img: createWsrvSrc(src, { h: 1080, w: 1920, fit: 'contain' }),
 			alt: alts[srcs.indexOf(src)],
 			w: 1920,
 			h: 1080
@@ -57,8 +57,13 @@
 	@import 'src/lib/styles/variables.scss';
 	.carousel-container {
 		position: relative;
-		width: 100vw;
+		width: 100%;
 		height: 300px;
+	}
+
+	// when the Gallery is on the top level, we can bleed out of the container (which is the main element)
+	:global(main)>.carousel-container {
+		width: 100vw;
 		margin: 0 calc(-1 * var(--global-padding));
 	}
 	@media (min-width: map.get($breakpoints, 'xl')) {

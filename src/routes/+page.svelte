@@ -36,12 +36,12 @@
 					img: createWsrvSrc(e.target.attributes.src.value, {
 						w: 1920,
 						h: 1080,
-						fit: 'outside'
+						fit: 'contain'
 					}),
 					thumb: createWsrvSrc(e.target.attributes.src.value, {
 						w: 192,
 						h: 108,
-						fit: 'outside'
+						fit: 'contain'
 					}),
 					w: 1920,
 					h: 1080
