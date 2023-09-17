@@ -2,13 +2,14 @@
 
 1. use this template to create a new repo
 2. Set the secrets:
-   2.1. CYON*KEY: create new ssh-key, add public key in cyon
+   2.1. CYON_KEY: create new ssh-key, add public key in cyon
    2.2. SSH_HOST: is the cyon server to connect to.
    2.3. SSH_USER: is the cyon admin user
-   2.4. SSH_PATH: is the path on the folder: ~/public_html/\_domain-name*
+   2.4. SSH_PATH: is the path on the folder: ~/public_html/\_domain-name
 3. Set the Variables:
    This is just the PUBLIC_MAPTILER_TOKEN - found here: https://cloud.maptiler.com/account/keys/
-4. Go live in setting the ENV-Variable PUBLIC_DEVMODE to false in this file: /.github/workflows/main.yml
+4. To enable syncing with the template change the Workflow permissions here: https://github.com/<gh-user>/<repo>/settings/actions
+5. Go live in setting the ENV-Variable PUBLIC_DEVMODE to false in this file: /.github/workflows/main.yml
 
 ## Developing
 
