@@ -96,7 +96,7 @@
 		height: var(--header-height);
 
 		h1 {
-			font-size: 2.5rem;
+			font-size: 1.5rem;
 			font-weight: 800;
 			justify-self: center;
 			color: var(--title-color);
@@ -129,6 +129,9 @@
 	}
 	@media (min-width: map.get($breakpoints, 'md')) {
 		header {
+			h1 {
+				font-size: 2rem;
+			}
 			grid-template-columns: auto 3fr;
 			grid-template-rows: var(--header-height) calc(var(--padding-md) + var(--menu-height));
 			height: calc(var(--header-height) + var(--padding-md) + var(--menu-height));
@@ -146,6 +149,11 @@
 		.headerlink {
 			height: 100%;
 			width: var(--header-height);
+		}
+	}
+	@media (min-width: map.get($breakpoints, 'md')) {
+		header h1 {
+			font-size: 2.5rem;
 		}
 	}
 </style>
