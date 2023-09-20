@@ -120,8 +120,6 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 ![Neubau](/holzbau/neubau/50.jpg)
 </Gallery>
 
-Hier vielleicht ein kurzer Text zur Galerie?
-
 </div>
 <div class="hero">
 
@@ -160,8 +158,6 @@ Hier vielleicht ein kurzer Text zur Galerie?
 ![Umbau](/holzbau/umbau/30.jpg)
 </Gallery>
 
-Hier vielleicht ein kurzer Text zur Galerie?
-
 </div>
 <div class="hero">
 
@@ -183,8 +179,6 @@ Hier vielleicht ein kurzer Text zur Galerie?
 ![Treppenbau](/holzbau/treppen/13.jpg)
 </Gallery>
 
-Hier vielleicht ein kurzer Text zur Galerie?
-
 </div>
 <div class="hero">
 
@@ -205,15 +199,11 @@ Hier vielleicht ein kurzer Text zur Galerie?
 ![Treppenbau](/holzbau/diverses/12.jpg)
 </Gallery>
 
-Hier vielleicht ein kurzer Text zur Galerie?
-
 </div>
 
 </Columns>
 
 ## Holzbau 3D-Modell
-
-Hier ein beschreibender text zum Modell?
 
 <iframe title="3D-Modell" src="/holzbau_3d_modell.html" loading="lazy" style="width: 100%; height: 50vh;" onLoad="self.scrollTo(0,0)"></iframe>
 
