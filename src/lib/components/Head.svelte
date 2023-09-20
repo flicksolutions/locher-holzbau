@@ -140,8 +140,8 @@
 				grid-template-rows: var(--header-height) calc(
 						var(--small-header-padding) + var(--menu-height)
 					);
-				.headerlink {
-					width: var(--header-height);
+				h1 {
+					font-size: 1.5rem;
 				}
 			}
 		}
