@@ -132,6 +132,7 @@
 		header {
 			h1 {
 				font-size: 2rem;
+				text-align: center;
 			}
 			grid-template-columns: minmax(var(--header-height), 1fr) 3fr;
 			grid-column-gap: var(--padding-md);
