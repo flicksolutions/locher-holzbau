@@ -42,6 +42,7 @@
 	@media (min-width: map.get($breakpoints, 'lg')) {
 		.columns {
 			gap: var(--padding-lg);
+			grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
 			/*:global(.hero img:first-of-type) {
 				height: 25vw;
 			}*/
