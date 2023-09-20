@@ -132,7 +132,7 @@
 			h1 {
 				font-size: 2rem;
 			}
-			grid-template-columns: auto 3fr;
+			grid-template-columns: minmax(var(--header-height), 1fr) 3fr;
 			grid-template-rows: var(--header-height) calc(var(--padding-md) + var(--menu-height));
 			height: calc(var(--header-height) + var(--padding-md) + var(--menu-height));
 			&.small {
@@ -148,7 +148,6 @@
 
 		.headerlink {
 			height: 100%;
-			width: var(--header-height);
 		}
 	}
 	@media (min-width: map.get($breakpoints, 'md')) {
