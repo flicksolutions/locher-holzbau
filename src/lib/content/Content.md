@@ -222,9 +222,9 @@ Locher Holzbau und Planung GmbH<br>
 Oberreutenenstrasse 4<br>
 3532 Zäziwil<br>
 
-Telefon: [031 711 45 80](tel:+41317114580)
+Telefon: [031 711 45 80](tel:+41.31.711.45.80)
 
-Mobil: [079 307 92 63](tel:+410793079263)
+Mobil: [079 307 92 63](tel:+41.79.307.92.63)
 
 E-Mail: [info@locher-holzbau.ch ](mailto:info@locher-holzbau.ch)
 
