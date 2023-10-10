@@ -7,18 +7,25 @@
 # Locher Holzbau und Planung
 
 <Gallery>
-![Aussenansicht Gebäude](/home/1.jpg)
-![Eingangsbereich](/home/2.jpg)
-![Wohnzimmer mit Cheminee](/home/3.jpg)
-![Nahaufnahme Fussleistenheizung](/home/4.jpg)
-![Fassade](/home/5.jpg)
-![Fassade](/home/6.jpg)
-![Fassade mit Glas](/home/7.jpg)
+![Dach](/home/1.jpg)
+![Innenraum](/home/2.jpg)
+![Neue Decke](/home/3.jpg)
+![Ausbau](/home/4.jpg)
+![Innenraum](/home/5.jpg)
+![Innenraum](/home/6.jpg)
+![Innenraum](/home/7.jpg)
 ![Aussenansicht Gebäude](/home/8.jpg)
-![Bad](/home/9.jpg)
-![Aussenansicht Gebäude rot](/home/10.jpg)
-![Aussenansicht Gebäude weiss](/home/11.jpg)
-![Innenbalkon](/home/12.jpg)
+![Eingangsbereich](/home/9.jpg)
+![Wohnzimmer mit Cheminee](/home/10.jpg)
+![Nahaufnahme Fussleistenheizung](/home/11.jpg)
+![Fassade](/home/12.jpg)
+![Fassade](/home/13.jpg)
+![Fassade mit Glas](/home/14.jpg)
+![Aussenansicht Gebäude](/home/15.jpg)
+![Bad](/home/16.jpg)
+![Aussenansicht Gebäude rot](/home/17.jpg)
+![Aussenansicht Gebäude weiss](/home/18.jpg)
+![Innenbalkon](/home/19.jpg)
 </Gallery>
 
 ## Wilkommen bei Locher Holzbau und Planung
