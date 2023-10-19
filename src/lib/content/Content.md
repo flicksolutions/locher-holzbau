@@ -2,31 +2,12 @@
     import Gallery from '$lib/components/Gallery.svelte';
     import Columns from '$lib/components/Columns.svelte';
     import Mapbox from '$lib/components/Mapbox.svelte';
+    import ImgText from '$lib/components/ImgText.svelte';
 </script>
 
 # Locher Holzbau und Planung
 
-<Gallery>
-![Dach](/home/1_.jpg)
-![Innenraum](/home/2_.jpg)
-![Neue Decke](/home/3_.jpg)
-![Ausbau](/home/4_.jpg)
-![Innenraum](/home/5_.jpg)
-![Innenraum](/home/6_.jpg)
-![Innenraum](/home/7_.jpg)
-![Aussenansicht Gebäude](/home/8_.jpg)
-![Eingangsbereich](/home/9_.jpg)
-![Wohnzimmer mit Cheminee](/home/10.jpg)
-![Nahaufnahme Fussleistenheizung](/home/11.jpg)
-![Fassade](/home/12.jpg)
-![Fassade](/home/13.jpg)
-![Fassade mit Glas](/home/14.jpg)
-![Aussenansicht Gebäude](/home/15.jpg)
-![Bad](/home/16.jpg)
-![Aussenansicht Gebäude rot](/home/17.jpg)
-![Aussenansicht Gebäude weiss](/home/18.jpg)
-![Innenbalkon](/home/19.jpg)
-</Gallery>
+<img src="/home/8_.jpg" alt="Eigenheim" style="width: 100%;" />
 
 ## Wilkommen bei Locher Holzbau und Planung
 
@@ -75,6 +56,17 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 ### Neubau
 
 <Gallery>
+![Eingangsbereich](/home/9_.jpg)
+![Wohnzimmer mit Cheminee](/home/10.jpg)
+![Nahaufnahme Fussleistenheizung](/home/11.jpg)
+![Fassade](/home/12.jpg)
+![Fassade](/home/13.jpg)
+![Fassade mit Glas](/home/14.jpg)
+![Aussenansicht Gebäude](/home/15.jpg)
+![Bad](/home/16.jpg)
+![Aussenansicht Gebäude rot](/home/17.jpg)
+![Aussenansicht Gebäude weiss](/home/18.jpg)
+![Innenbalkon](/home/19.jpg)
 ![Neubau](/holzbau/neubau/1.jpg)
 ![Neubau](/holzbau/neubau/2.jpg)
 ![Neubau](/holzbau/neubau/3.jpg)
@@ -133,6 +125,13 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 ### Umbau
 
 <Gallery>
+![Dach](/home/1_.jpg)
+![Innenraum](/home/2_.jpg)
+![Neue Decke](/home/3_.jpg)
+![Ausbau](/home/4_.jpg)
+![Innenraum](/home/5_.jpg)
+![Innenraum](/home/6_.jpg)
+![Innenraum](/home/7_.jpg)
 ![Umbau](/holzbau/umbau/1.jpg)
 ![Umbau](/holzbau/umbau/2.jpg)
 ![Umbau](/holzbau/umbau/3.jpg)
@@ -219,8 +218,6 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 - [Schreinerei Hofer + Cie Zäziwil](http://www.schreinerei-hofer.ch/)
 
 - [Gemeinde Zäziwil Bauwesen](http://www.zaeziwil.ch/web/verwaltung/bauwesen/default.htm)
-
-- [KKIT GmbH Zäziwil](http://www.kkit.ch/)
 
 ## Kontakt
 
