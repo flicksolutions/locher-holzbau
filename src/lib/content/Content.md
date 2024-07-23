@@ -9,7 +9,7 @@
 
 <img src="/home/8_.jpg" alt="Eigenheim" style="width: 100%;" />
 
-## Wilkommen bei Locher Holzbau und Planung
+## Willkommen bei Locher Holzbau und Planung
 
 Planen Sie Ihr Wunschhaus und brauchen dazu einen kompetenten Partner? Dann profitieren Sie von meinen Dienstleistungen. Ich realisiere Ihr Bauprojekt von der Planung bis zur schlüsselfertigen Übergabe.
 
