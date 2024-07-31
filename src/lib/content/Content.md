@@ -162,6 +162,7 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 ![Umbau](/holzbau/umbau/28.jpg)
 ![Umbau](/holzbau/umbau/29.jpg)
 ![Umbau](/holzbau/umbau/30.jpg)
+![20231222_182013](https://github.com/user-attachments/assets/e02c4355-f752-42d8-b0f2-6e02a7ba13a2)
 </Gallery>
 
 </div>
