@@ -217,6 +217,8 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 
 - [Schreinerei Hofer + Cie Zäziwil](http://www.schreinerei-hofer.ch/)
 
+- [Nadja Liechti Feng Shui](https://www.nadjamarijaliechti.ch/de/Blog/Blog-Eintrag?newsid=40)
+
 - [Gemeinde Zäziwil Bauwesen](http://www.zaeziwil.ch/web/verwaltung/bauwesen/default.htm)
 
 ## Kontakt
