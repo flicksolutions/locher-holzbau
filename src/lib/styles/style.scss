@@ -108,3 +108,7 @@ img {
 	font-weight: 700;
 	color: var(--text-color);
 }
+
+.bp-img img {
+	object-fit: contain;
+}

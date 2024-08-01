@@ -19,14 +19,14 @@
 
 			:global(img):first-of-type {
 				width: 100%;
-				object-fit: cover;
+				object-fit: contain;
 			}
 		}
 	}
 	@container (width > 1px) {
 		:global(img):first-of-type {
 			height: 60cqw;
-			object-fit: cover;
+			object-fit: contain;
 		}
 	}
 

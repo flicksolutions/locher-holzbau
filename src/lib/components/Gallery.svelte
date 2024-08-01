@@ -1,6 +1,5 @@
 <script>
 	import { onMount } from 'svelte';
-	import { createWsrvSrc } from '$lib/functions';
 	import BiggerPicture from 'bigger-picture/svelte';
 
 	let bp;
@@ -13,8 +12,7 @@
 			target: carouselContainer
 		});
 		const items = srcs.map((src) => ({
-			thumb: createWsrvSrc(src, { h: 300, w: 534, fit: 'contain' }), // since we theoretically have the image dimensions, we can create better thumbnails...
-			img: createWsrvSrc(src, { h: 1080, w: 1920, fit: 'contain' }),
+			img: src,
 			alt: alts[srcs.indexOf(src)],
 			w: 1920,
 			h: 1080
@@ -62,7 +60,7 @@
 	}
 
 	// when the Gallery is on the top level, we can bleed out of the container (which is the main element)
-	:global(main)>.carousel-container {
+	:global(main) > .carousel-container {
 		width: 100vw;
 		margin: 0 calc(-1 * var(--global-padding));
 	}
