@@ -195,7 +195,6 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 <Gallery>
 ![Treppenbau](/holzbau/diverses/1.jpg)
 ![Treppenbau](/holzbau/diverses/2.jpg)
-![Treppenbau](/holzbau/diverses/3.jpg)
 ![Treppenbau](/holzbau/diverses/4.jpg)
 ![Treppenbau](/holzbau/diverses/5.jpg)
 ![Treppenbau](/holzbau/diverses/6.jpg)
