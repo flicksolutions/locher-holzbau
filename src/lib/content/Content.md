@@ -56,6 +56,7 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 ### Neubau
 
 <Gallery>
+![DSC_0294](https://github.com/user-attachments/assets/37914742-4345-47ad-b294-acafbe3511d3)
 ![Eingangsbereich](/home/9_.jpg)
 ![Wohnzimmer mit Cheminee](/home/10.jpg)
 ![Nahaufnahme Fussleistenheizung](/home/11.jpg)
@@ -63,10 +64,8 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 ![Fassade](/home/13.jpg)
 ![Fassade mit Glas](/home/14.jpg)
 ![Aussenansicht Gebäude](/home/15.jpg)
-![Bad](/home/16.jpg)
 ![Aussenansicht Gebäude rot](/home/17.jpg)
 ![Aussenansicht Gebäude weiss](/home/18.jpg)
-![Innenbalkon](/home/19.jpg)
 ![Neubau](/holzbau/neubau/1.jpg)
 ![Neubau](/holzbau/neubau/2.jpg)
 ![Neubau](/holzbau/neubau/3.jpg)
