@@ -64,8 +64,6 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 ![Fassade](/home/13.jpg)
 ![Fassade mit Glas](/home/14.jpg)
 ![Aussenansicht Gebäude](/home/15.jpg)
-![Aussenansicht Gebäude rot](/home/17.jpg)
-![Aussenansicht Gebäude weiss](/home/18.jpg)
 ![Neubau](/holzbau/neubau/1.jpg)
 ![Neubau](/holzbau/neubau/2.jpg)
 ![Neubau](/holzbau/neubau/3.jpg)
