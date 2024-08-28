@@ -63,13 +63,10 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 ![Fassade](/home/12.jpg)
 ![Fassade](/home/13.jpg)
 ![Fassade mit Glas](/home/14.jpg)
-
-
 ![Neubau](/holzbau/neubau/2.jpg)
 ![Neubau](/holzbau/neubau/3.jpg)
 ![Neubau](/holzbau/neubau/4.jpg)
 ![Neubau](/holzbau/neubau/5.jpg)
-
 ![Neubau](/holzbau/neubau/8.jpg)
 ![Neubau](/holzbau/neubau/9.jpg)
 ![Neubau](/holzbau/neubau/10.jpg)
