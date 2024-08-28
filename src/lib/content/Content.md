@@ -125,6 +125,7 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 ### Umbau
 
 <Gallery>
+![20240705_172352](https://github.com/user-attachments/assets/c6d82ba4-bce0-4c83-9221-5c012eeaa33a)
 ![Dach](/home/1_.jpg)
 ![Innenraum](/home/2_.jpg)
 ![Neue Decke](/home/3_.jpg)
