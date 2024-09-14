@@ -98,7 +98,11 @@ gerne plane ich mit Ihnen Ihr Traumhaus
 ![20240705_173036](https://github.com/user-attachments/assets/76f35f87-95ee-4447-a64c-99800de55926)
 ![20240705_172352](https://github.com/user-attachments/assets/acc8c1d4-9cc0-4d68-b46c-a5ff09fc8957)       
 ![Dach](/home/1_.jpg)
-
+![20210217_132754](https://github.com/user-attachments/assets/99cc0f06-9e39-4efd-8ab7-e9477c1ea222)
+![20210217_133445](https://github.com/user-attachments/assets/d2d53661-d297-4a34-baac-45626423b50c)
+![20593600](https://github.com/user-attachments/assets/af3ba04b-0fa8-44b3-b480-ca90102b0c48)
+![20450600](https://github.com/user-attachments/assets/3a68f76b-7d0a-44fa-bf31-959639841e30)
+![20210504_110057](https://github.com/user-attachments/assets/c97fbcef-b15c-4daa-bffd-40fd601bde0c)
 ![Umbau](/holzbau/umbau/16.jpg)
 ![Umbau](/holzbau/umbau/17.jpg)
 ![Umbau](/holzbau/umbau/18.jpg)
